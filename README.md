@@ -9,9 +9,7 @@ Advanced contract clause risk analysis powered by GPT-4o with state-of-the-art p
 
 ## 🚀 Live Demo
 
-**[Try it live →](https://contract-risk-ai.railway.app)**
-
-![ContractRiskAI Demo](https://via.placeholder.com/800x400?text=ContractRiskAI+Demo+Screenshot)
+**[Try it live →]([https://contract-risk-ai.railway.app](https://contract-risk-p0b0awhzw-jaythewaves-projects.vercel.app/))**
 
 ## 🎯 Prompt Engineering Techniques Used
 
@@ -132,8 +130,7 @@ contract-risk-ai/
 
 1. Click the "Deploy on Railway" button above
 2. Add your `OPENAI_API_KEY` environment variable
-3. Railway will automatically deploy both frontend and backend
-
+3. Railway will automatically deploy the backend
 ### Deploy to Vercel
 
 ```bash
