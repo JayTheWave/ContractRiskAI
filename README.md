@@ -8,7 +8,7 @@ Advanced contract clause risk analysis powered by GPT-4o with state-of-the-art p
 
 ## 🚀 Live Demo
 
-**[Try it live →]([https://contract-risk-ai.railway.app](https://contract-risk-p0b0awhzw-jaythewaves-projects.vercel.app/))**
+**[Try it live →]([https://contract-risk-ai.vercel.app/))**
 
 ## 🎯 Prompt Engineering Techniques Used
 
